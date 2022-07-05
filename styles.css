@@ -1,5 +1,23 @@
 h1 {
     font-family: "Gentium Book Plus", sans;
-    text-align: center;
-    color: hsl(240, 50%, 60%)
+    color: hsl(240, 50%, 60%);
+    font-size: 40px;
+}
+a {
+    color: hsl(240, 5%, 45%);
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 20px;
+}
+h3 {
+    color: hsl(0, 50%, 60%);
+    font-family: Arima, sans-serif;
+    font-size: 25px;
+}
+p {
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 18px;
+}
+div.ingredients, div.steps, div.tips {
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 18px;
 }
