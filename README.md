@@ -1,6 +1,7 @@
-# odin-recipes
+# Odin-Recipes
 
-This is my very first project. In this project, I shall be developing a html page which consists of links which lead to various food recipe pages also made by myself.
-This project will demonstrate my basic html page and css development skills.
+Welcome to **Odin Recipes**, check out the two popular Eastern food recipes.
 
-Link to my project: https://mell62.github.io/odin-recipes/
+Click :point_right:[here](https://mell62.github.io/odin-recipes/):point_left:!
+
+This is my first web project and is developed using only basic HTML and a pinch of CSS.
